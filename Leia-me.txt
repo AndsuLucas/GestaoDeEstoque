@@ -1,0 +1,5 @@
+Todas as tabelas criadas até agora encontram-se na pasta tabelas.
+usuario: andsu
+senha: 123
+É possível que ocorra algum erro nos includes devido a utilização do composer.
+Esta permitido a divulgação do código, desde que o nome do autor (Anderson Lucas) seja preservado.

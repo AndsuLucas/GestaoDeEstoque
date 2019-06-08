@@ -1,0 +1,25 @@
+{
+	
+	"autoload":{
+		"classmap":[
+			"./app/classes"
+		],
+
+		"files":[
+			"./app/funcoes/banco.php",
+			"./app/funcoes/sessao.php",
+			"./app/funcoes/mensagens.php",
+			"./app/funcoes/dados.php",
+			"./app/funcoes/debug.php"
+			
+			
+		]
+
+	}
+	
+	
+		
+
+	
+
+}
